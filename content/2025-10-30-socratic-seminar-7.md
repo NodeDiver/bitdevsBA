@@ -7,11 +7,13 @@ meetup_id = "evt_g3JCLAxLjrZykevM"
 
 ### Cronograma
 
-19:00hrs Birras y empanadas por Librería de Satoshi
+18:45hrs Birras y empanadas por Librería de Satoshi
 
-19:30hrs Seminario Socrático por Librería de Satoshi
+19:15hrs BitVMX: a CPU for Universal Computation on Bitcoin (por Sergio Lerner)
 
-20:30hrs Cierre y Networking
+20:00hrs Seminario Socrático por Librería de Satoshi
+
+21:00hrs - 22:00hrs Carne Asada, Cierre y Networking
 
 ### Redes 
 - [Twitter](https://x.com/BitdevsBA)
