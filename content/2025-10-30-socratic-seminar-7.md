@@ -56,7 +56,7 @@ Source https://bitdevs.org/running-a-great-socratic-seminar/
 Estamos muy contentos de presentar seminario socrático #7 [Seminario Socratico](/about)!
 Un agradecimiento especial a nuestros
 sponsors [Libreria de Satoshi](https://libreriadesatoshi.com/)
-por las bebidas y comida y el espacio [La Crypta](https://lacrypta.ar/).
+por las bebidas, comida y el espacio.
 
 ### Oportunidades educativas o laborales
 - [Bitcoiner Jobs](https://bitcoinerjobs.com/)
