@@ -39,6 +39,8 @@ No fotos, no videos, pero audio recoding = OK
 
 Deja el espacio limpio
 
+Recuerda que para asistir tienes que completar el siguiente [form](https://forms.gle/bbXxWMFcMst634K99)
+
 ### Qué es un seminario socrático de BitDevs?
 
 El seminario socrático de BitDev o Bitcoin developers es un evento mensual diseñado para promover el debate, el intercambio de información y la discusión sobre temas técnicos relacionados con Bitcoin y su ecosistema. Estos seminarios siguen un formato participativo, en el que se discuten y se hacen preguntas sobre temas recopilados por los miembros del grupo antes del evento.
