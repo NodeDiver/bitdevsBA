@@ -66,6 +66,11 @@ por las bebidas, comida y el espacio.
 - [B4OS](https://www.libreriadesatoshi.com/b4os)
 - [Chaincode Labs: Bitcoin and Lightning Protocol Development Education](https://learning.chaincode.com/)
 
+### Eventos
+- [LABITCONF](https://labitconf.com/)
+- [SatsConf](https://satsconf.com.br/)
+- [Adopting bitcoin](https://sv25.adoptingbitcoin.org/)
+
 ### Estadísticas de la Red
 - [mempool.space](https://mempool.space/)
 - [Clark Moody Dashboard](https://dashboard.clarkmoody.com/)
