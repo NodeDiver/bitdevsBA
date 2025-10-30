@@ -83,6 +83,8 @@ por las bebidas, comida y el espacio.
 - [Bitcoin Core v30.0 Testing Guide](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/30.0-Release-Candidate-Testing-Guide/)
 - [Bitcoin Core Code - a review](https://binaryigor.com/bitcoin-core-code.html)
 - [Determining BlockTemplate Fee Increase Using Fee Rate Diagram](https://delvingbitcoin.org/t/determining-blocktemplate-fee-increase-using-fee-rate-diagram/2052)
+- [p2p: improve TxOrphanage denial of service bounds](https://github.com/bitcoin/bitcoin/pull/31829)
+- [SwiftSync – Speeding up IBD with pre-generated hints](https://delvingbitcoin.org/t/swiftsync-speeding-up-ibd-with-pre-generated-hints-poc/1562)
 
 ### Lightning Network
 - [Disclosure: Eclair Preimage Extraction Exploit](https://delvingbitcoin.org/t/disclosure-eclair-preimage-extraction-exploit/2010)
