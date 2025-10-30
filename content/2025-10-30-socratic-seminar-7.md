@@ -82,14 +82,21 @@ por las bebidas, comida y el espacio.
 ### Bitcoin
 - [Bitcoin Core v30.0 Testing Guide](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/30.0-Release-Candidate-Testing-Guide/)
 - [Bitcoin Core Code - a review](https://binaryigor.com/bitcoin-core-code.html)
+- [Determining BlockTemplate Fee Increase Using Fee Rate Diagram](https://delvingbitcoin.org/t/determining-blocktemplate-fee-increase-using-fee-rate-diagram/2052)
 
 ### Lightning Network
 - [Disclosure: Eclair Preimage Extraction Exploit](https://delvingbitcoin.org/t/disclosure-eclair-preimage-extraction-exploit/2010)
+- [Core Lightning 25.09.1 is a maintenance release for the current major version of this popular LN node that includes several bug fixes.](https://github.com/ElementsProject/lightning/releases/tag/v25.09.1)
 
 ### Security
 - [A Plausible Attack on the Adaptive Security of Threshold Schnorr Signatures](https://eprint.iacr.org/2025/1001.pdf)
+
+### Wallets
+- [Sparrow 2.3.0 released](https://github.com/sparrowwallet/sparrow/releases/tag/2.3.0)
+- [Trezor Safe 7: the world's first quantum-ready hardware wallet](https://trezor.io/guides/trezor-devices/trezor-safe-7/the-first-quantum-ready-hardware-wallet?srsltid=AfmBOopaQjMlwIFK1ILysciTQR9cB3rLP928UPeSRWtyjRg23iQN1oxR)
 
 ### Projects
 - [NUT-25: BOLT12](https://github.com/cashubtc/nuts/blob/main/25.md)
 - [Introducing 𝚡𝟺𝟶𝟸-𝚖𝚌𝚙 - Bring x402 payments into Agents & MCP servers with the AI SDK.](https://x.com/vercel/status/1966549876289999173)
 - [A Decentralized LLM Routing Marketplace powered by Cashu and Nostr.](https://routstr.com/)
+- [Cashu into the iOS and Android Signal apps] (https://bitcoinforsignal.org/)
