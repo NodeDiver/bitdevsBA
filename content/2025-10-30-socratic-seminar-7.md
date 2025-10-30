@@ -99,4 +99,4 @@ por las bebidas, comida y el espacio.
 - [NUT-25: BOLT12](https://github.com/cashubtc/nuts/blob/main/25.md)
 - [Introducing 𝚡𝟺𝟶𝟸-𝚖𝚌𝚙 - Bring x402 payments into Agents & MCP servers with the AI SDK.](https://x.com/vercel/status/1966549876289999173)
 - [A Decentralized LLM Routing Marketplace powered by Cashu and Nostr.](https://routstr.com/)
-- [Cashu into the iOS and Android Signal apps] (https://bitcoinforsignal.org/)
+- [Cashu into the iOS and Android Signal apps](https://bitcoinforsignal.org/)
