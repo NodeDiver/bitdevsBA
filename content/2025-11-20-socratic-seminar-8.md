@@ -37,7 +37,7 @@ No fotos, no videos, pero audio recoding = OK
 
 Deja el espacio limpio
 
-Recuerda que para asistir tienes que completar el siguiente [form](https://forms.gle/bbXxWMFcMst634K99)
+Recuerda que para asistir tienes que completar el siguiente [form](https://forms.gle/ZRB6duiwUGYmspsW8)
 
 ### Qué es un seminario socrático de BitDevs?
 
