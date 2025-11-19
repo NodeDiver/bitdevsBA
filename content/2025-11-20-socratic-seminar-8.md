@@ -7,9 +7,9 @@ meetup_id = "evt_adrdZkUNzKSyVkes"
 
 ### Cronograma
 
-19:00hrs Birras y empanadas por Librería de Satoshi
+19:00hrs Puertas abiertas y socialización 
 
-19:30hrs Seminario Socrático por Librería de Satoshi
+19:30hrs BitDevs
 
 21:00hrs Cierre y Networking
 
