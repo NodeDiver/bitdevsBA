@@ -89,7 +89,7 @@ por las bebidas, comida y el espacio.
 - [Public disclosure of 4 Bitcoin Core security advisories](https://groups.google.com/g/bitcoindev/c/sBpCgS_yGws)
 - [CPU DoS from unconfirmed transaction processing (CVE-2025-46598)](https://bitcoincore.org/en/2025/10/24/disclose-cve-2025-46598/)
 - [TEE.fail](https://tee.fail/)
-- [Google Quantum Echoes algorithm](https://blog.google/technology/research/our-quantum-echoes-algorithm/)
+- [Google Quantum Echoes algorithm](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
 - [Thoughts on network policy for quantum-vulnerable UTXOs](https://delvingbitcoin.org/t/thoughts-on-a-network-policy-for-quantum-vulnerable-utxos-long-exposure-quantum-attacks)
 
 ### BIPs & Proposals
@@ -103,7 +103,7 @@ por las bebidas, comida y el espacio.
 
 - [LND 0.20.0-beta.rc4](https://github.com/lightningnetwork/lnd/releases)
 - [Core Lightning #8656: P2TR default address](https://github.com/ElementsProject/lightning/pull/8656)
-- [Channel Jamming - Outgoing Reputation: Simulation Results](https://delvingbitcoin.org/t/channel-jamming-outgoing-reputation-simulation-results-and-updates)
+- [Channel Jamming - Outgoing Reputation: Simulation Results](https://delvingbitcoin.org/t/outgoing-reputation-simulation-results-and-updates/2069)
 - [Taproot Swaps (Boltz)](https://blog.boltz.exchange/p/introducing-taproot-swaps-putting)
 
 ### Layer 2
@@ -134,7 +134,6 @@ por las bebidas, comida y el espacio.
 
 ### Noticias
 
-- [Feds Seize $15B in Bitcoin from alleged Iran/China miner theft](https://www.elliptic.co/blog/15-billion-us-seizure-reveals-prince-groups-connection-to-iran-china-bitcoin-mining-theft)
 - [France attack on GrapheneOS](https://primal.net/e/nevent1qqs0hrfthwzc3dr8gjws66vz7dtz3x6rk80fwg3hh0nmhnsg5u283vsyntn7e)
 
 
