@@ -33,7 +33,7 @@ Respeta los diferentes pensamientos e ideas.
 - Complementa con imágenes or websites las intervenciones verbales preparadas de más de 3 min, recuerda no extenderte más de 10 min, todas las presentaciones incluyendo preguntas son de 10 min, como máximo.
 
 ### Recordatorios
-No fotos, no videos, pero audio recoding = OK
+Esta prohibido tomar fotos o videos durante el evento.
 
 Deja el espacio limpio
 
