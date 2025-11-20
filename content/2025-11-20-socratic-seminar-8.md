@@ -53,10 +53,10 @@ Source https://bitdevs.org/running-a-great-socratic-seminar/
 
 ### Anuncios
 
-Estamos muy contentos de presentar seminario socrático #7 [Seminario Socratico](/about)!
+Estamos muy contentos de presentar seminario socrático #8 [Seminario Socratico](/about)!
 Un agradecimiento especial a nuestros
 sponsors [Libreria de Satoshi](https://libreriadesatoshi.com/)
-por las bebidas, comida y el espacio.
+por las bebidas y el espacio.
 
 ### Oportunidades educativas o laborales
 - [Bitcoiner Jobs](https://bitcoinerjobs.com/)
@@ -126,6 +126,7 @@ por las bebidas, comida y el espacio.
 
 - [Miniscript Studio - full IDE based on Rust Miniscript](https://delvingbitcoin.org/t/miniscript-studio-a-fulll-ide-based-on-rust-miniscript)
 - [Gossip Observer: Monitor Lightning P2P network](https://delvingbitcoin.org/t/gossip-observer-new-project-to-monitor-the-lightning-p2p-network)
+- [The end of NIPs](https://njump.me/naddr1qvzqqqr4gupzqwlsccluhy6xxsr6l9a9uhhxf75g85g8a709tprjcn4e42h053vaqy88wumn8ghj7mn0wvhxcmmv9uqqsve3x93rjwfev5svt4wj)
 
 ### Business & Adoption
 
