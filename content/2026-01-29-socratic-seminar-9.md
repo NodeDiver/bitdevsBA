@@ -2,7 +2,7 @@
 title = "BitdevsBA Seminario Socratico #9"
 template = "post.html"
 [extra]
-meetup_id = ""
+meetup_id = "evt_DeSkzDQv3gJ7fGLC"
 +++
 
 ### Cronograma
